@@ -1,6 +1,7 @@
 # OpenMPによる並列処理の学習記録（C言語）
 
-本リポジトリは、東京大学情報基盤センターによる「C言語による OpenMP 入門」講習資料（講師：黒田久泰 URL:https://www.cc.u-tokyo.ac.jp/events/lectures/03/kosyu-openmp_c.pdf）をもとに、OpenMPの基本をC言語で学習・実装した記録である。マルチスレッド処理の基本的な仕組みや性能差について、実際にコードを記述・実行して確認した。
+本リポジトリは、東京大学情報基盤センターによる「C言語による OpenMP 入門」講習資料（講師：黒田久泰 URL: https://www.cc.u-tokyo.ac.jp/events/lectures/03/kosyu-openmp_c.pdf ）
+をもとに、OpenMPの基本をC言語で学習・実装した記録である。マルチスレッド処理の基本的な仕組みや性能差について、実際にコードを記述・実行して確認した。
 
 ## プログラム一覧
 
